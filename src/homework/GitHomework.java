@@ -10,6 +10,7 @@ public class GitHomework {
 		//This is coming from GitHub
 
 		String name = "Maria Eng";
+		int age = 41;
 		public static void add(int a, int b);
 		System.out.println(a+b);
 		
