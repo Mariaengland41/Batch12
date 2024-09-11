@@ -8,7 +8,8 @@ public class GitHomework {
                  int age= 12;
 		String name="John";
 		//This is coming from GitHub
-		
+
+		String name = "Maria Eng";
 		public static void add(int a, int b);
 		System.out.println(a+b);
 		
